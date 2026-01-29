@@ -2,9 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anand+Jadhav;Full+Stack+Software+Engineer;SAP+Fiori+%26+OData+Enthusiast;AI+SaaS+Developer" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/anandjadhav42004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=anandjadhav42004&label=Profile%20views&color=0e75b6&style=flat-square" alt="views" />
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/anand-jadhav-b599801b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <!-- LeetCode -->
+    <a href="PASTE_YOUR_LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+    <!-- GeeksforGeeks -->
+    <a href="PASTE_YOUR_GFG_URL_HERE"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+    <!-- HackerRank -->
+    <a href="PASTE_YOUR_HACKERRANK_URL_HERE"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  </p>
+  
+  <p align="center">
+    <!-- Personal Portfolio -->
+    <a href="PASTE_YOUR_PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+    <!-- Gmail -->
+    <a href="mailto:anandjadhav@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <!-- Profile Views Counter -->
+    <img src="https://komarev.com/ghpvc/?username=anandjadhav42004&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
   </p>
 </div>
 
