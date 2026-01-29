@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Hi,%20I'm%20Anand%20Jadhav&fontSize=70&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Anand+Jadhav;Full+Stack+Software+Engineer;SAP+Fiori+%26+OData+Enthusiast;AI+SaaS+Developer" alt="Typing SVG" />
 
   <h3> 👨‍💻 Full Stack Engineer | SaaS Developer | SAP Enthusiast </h3>
 
