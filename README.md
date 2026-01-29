@@ -56,17 +56,18 @@
 
 ---
 
+
+
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandjadhav42004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandjadhav42004&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anandjadhav42004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandjadhav42004&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandjadhav42004&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandjadhav42004&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
-
 ---
 
 <div align="center">
