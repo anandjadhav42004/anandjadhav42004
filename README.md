@@ -83,50 +83,75 @@ I'm a **Full Stack Developer** who turns real business problems into clean, scal
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/anandjadhav42004/ProFlow-SaaS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anandjadhav42004&repo=ProFlow-SaaS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=667eea"/>
-</a>
+### 🤖 ProFlow-SaaS
+*AI-powered project management*
 
-**🤖 AI-powered project management.** MEAN-stack tool that uses **Google Gemini** for task prioritization and smart suggestions, with real-time collaboration and analytics.
+MEAN-stack collaboration tool that uses **Google Gemini** for task prioritization and smart suggestions, with real-time updates and analytics.
 
-`Angular` `Node.js` `MongoDB` `Gemini`
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/github/stars/anandjadhav42004/ProFlow-SaaS?style=flat-square&color=764ba2&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/anandjadhav42004/ProFlow-SaaS?style=flat-square&color=667eea"/>
+
+**[🔗 View on GitHub →](https://github.com/anandjadhav42004/ProFlow-SaaS)**
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/anandjadhav42004/deepfake-detection-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anandjadhav42004&repo=deepfake-detection-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=667eea"/>
-</a>
+### 🎬 Deepfake Detection AI
+*Computer vision & deep learning*
 
-**🎬 Deepfake detection.** CNN-based system that spots facial manipulation in images and video, with a visualization view of what the model focuses on.
+CNN-based system that detects facial manipulation in images and video, with a visualization view of what the model focuses on.
 
-`Python` `TensorFlow` `OpenCV`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/github/stars/anandjadhav42004/deepfake-detection-ai?style=flat-square&color=764ba2&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/anandjadhav42004/deepfake-detection-ai?style=flat-square&color=667eea"/>
+
+**[🔗 View on GitHub →](https://github.com/anandjadhav42004/deepfake-detection-ai)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/anandjadhav42004/DAYFLOW">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anandjadhav42004&repo=DAYFLOW&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=667eea"/>
-</a>
+### 📅 DAYFLOW
+*Smart daily planner*
 
-**📅 Smart daily planner.** Time-blocking, task prioritization, streak tracking and simple analytics to keep you consistent.
+Productivity app with time-blocking, task prioritization, streak tracking and simple analytics to keep you consistent.
 
-`React` `Node.js` `MongoDB`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/github/stars/anandjadhav42004/DAYFLOW?style=flat-square&color=764ba2&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/anandjadhav42004/DAYFLOW?style=flat-square&color=667eea"/>
+
+**[🔗 View on GitHub →](https://github.com/anandjadhav42004/DAYFLOW)**
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/anandjadhav42004/fiori-views">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anandjadhav42004&repo=fiori-views&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=667eea"/>
-</a>
+### 🏢 SAP Fiori Solutions
+*Enterprise SAPUI5 apps*
 
-**🏢 Enterprise SAPUI5 apps.** Fiori applications connected to backend **OData** services, built around SAP UX guidelines.
+Fiori applications connected to backend **OData** services, built around SAP UX guidelines for clean, scalable enterprise UIs.
 
-`SAP Fiori` `SAPUI5` `OData`
+<img src="https://img.shields.io/badge/SAP%20Fiori-008FD3?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAPUI5-0070F2?style=flat-square&logo=sap&logoColor=white"/>
+<img src="https://img.shields.io/badge/OData-F29100?style=flat-square&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/github/stars/anandjadhav42004/fiori-views?style=flat-square&color=764ba2&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/anandjadhav42004/fiori-views?style=flat-square&color=667eea"/>
+
+**[🔗 View on GitHub →](https://github.com/anandjadhav42004/fiori-views)**
 
 </td>
 </tr>
@@ -134,16 +159,17 @@ I'm a **Full Stack Developer** who turns real business problems into clean, scal
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anandjadhav42004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=667eea&rank_icon=percentile"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandjadhav42004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/anandjadhav42004&query=$.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=667eea&logo=github"/>
+<img src="https://img.shields.io/github/followers/anandjadhav42004?style=for-the-badge&label=FOLLOWERS&color=764ba2"/>
+<img src="https://img.shields.io/github/commit-activity/y/anandjadhav42004/ProFlow-SaaS?style=for-the-badge&label=PROFLOW%20COMMITS%20(YEAR)&color=f093fb&labelColor=1a1a2e"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=anandjadhav42004&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=FFFFFF"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandjadhav42004&bg_color=0D1117&color=A78BFA&line=667eea&point=f093fb&area=true&area_color=764ba2&hide_border=true&title_color=A78BFA"/>
 
 </div>
 
