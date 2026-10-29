@@ -20,7 +20,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:f093fb&height=3"/>
 
-<h2 align="center">👨‍💻 &nbsp;About Me</h2>
+<h2 align="center">👨💻 &nbsp;About Me</h2>
 
 <div align="center">
 <i>"Good software solves a real problem, then gets out of the user's way."</i>
@@ -185,14 +185,13 @@ Fiori applications connected to backend **OData** services, built around SAP UX 
 
 <img src="https://streak-stats.demolab.com/?user=anandjadhav42004&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=FFFFFF"/>
 
-</div>
+<br/><br/>
 
-<!--
-OPTIONAL: contribution snake. Needs the snake.yml workflow (see separate file) to run once first.
 <div align="center">
 <img src="https://raw.githubusercontent.com/anandjadhav42004/anandjadhav42004/output/github-snake-dark.svg" width="100%"/>
 </div>
--->
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:f093fb&height=3"/>
 
