@@ -49,6 +49,32 @@
 
 ---
 
+## Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="700">
+
+### 🚧 &nbsp;EnterprisePilot-AI
+
+*A smart enterprise automation platform that brings AI into everyday business workflows.*
+
+![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-fb923c?style=flat-square)
+![AI](https://img.shields.io/badge/AI-POWERED-7c3aed?style=flat-square)
+![Enterprise](https://img.shields.io/badge/FOCUS-ENTERPRISE-db2777?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
 ## Projects
 
 > *Things I've built that I'm actually proud of.*
@@ -69,7 +95,7 @@ MEAN-stack collaboration tool. **Google Gemini** handles task prioritization & s
 
 **`02`** &nbsp; 🎬 &nbsp; **Deepfake Detection AI** &nbsp; — &nbsp; *Computer vision & deep learning*
 
-**CNN-based** system detecting facial manipulation in images & video. Includes Grad-CAM visualisation to see exactly what the model focuses on.
+**CNN-based** system detecting facial manipulation in images & video, with a visualisation of what the model focuses on.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -80,7 +106,7 @@ MEAN-stack collaboration tool. **Google Gemini** handles task prioritization & s
 
 **`03`** &nbsp; 📅 &nbsp; **DAYFLOW** &nbsp; — &nbsp; *Smart daily planner*
 
-**Time-blocking**, intelligent task priority, streak tracking & habit analytics. Built because I wanted it myself.
+**Time-blocking**, intelligent task priority, streak tracking & habit analytics to keep you consistent.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -91,7 +117,7 @@ MEAN-stack collaboration tool. **Google Gemini** handles task prioritization & s
 
 **`04`** &nbsp; 🏢 &nbsp; **SAP Fiori Solutions** &nbsp; — &nbsp; *Enterprise SAPUI5 apps*
 
-**SAPUI5** apps connected to OData backends. Built to SAP UX guidelines — clean, accessible, scalable. Actually nice to look at.
+**SAPUI5** apps connected to OData backends. Built to SAP UX guidelines — clean, accessible, scalable.
 
 ![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-7c3aed?style=flat-square&logo=sap&logoColor=white)
 ![SAPUI5](https://img.shields.io/badge/SAPUI5-a78bfa?style=flat-square&logo=sap&logoColor=white)
@@ -111,11 +137,11 @@ MEAN-stack collaboration tool. **Google Gemini** handles task prioritization & s
 
 <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,tailwind&theme=dark&perline=7"/>
 
-**Backend & SAP**
+**Backend & AI**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,py,java,flask,tensorflow&theme=dark&perline=7"/>
 
-**Cloud · DB · AI**
+**Cloud · DB · DevOps**
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,aws,docker,kubernetes,git&theme=dark&perline=7"/>
 
@@ -140,12 +166,7 @@ MEAN-stack collaboration tool. **Google Gemini** handles task prioritization & s
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=anandjadhav42004&theme=tokyonight&hide_border=true&background=050508&ring=7c3aed&fire=db2777&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=64748b&sideNums=a78bfa" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anandjadhav42004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050508&title_color=c4b5fd&icon_color=7c3aed&text_color=94a3b8&ring_color=db2777" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandjadhav42004&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=c4b5fd&text_color=94a3b8&langs_count=8" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=anandjadhav42004&theme=tokyonight&hide_border=true&background=050508&ring=7c3aed&fire=db2777&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=64748b&sideNums=a78bfa"/>
 
 <br/><br/>
 
@@ -174,6 +195,29 @@ MEAN-stack collaboration tool. **Google Gemini** handles task prioritization & s
 | ☕ | **DSA in Java** | Problem solving & interview prep | ![](https://img.shields.io/badge/📚_Ongoing-a78bfa?style=flat-square) |
 | 🤖 | **LLMs** | Prompt engineering & AI products | ![](https://img.shields.io/badge/🚀_Exploring-db2777?style=flat-square) |
 | 🐳 | **Kubernetes** | Container orchestration & DevOps | ![](https://img.shields.io/badge/🌱_Starting-0891b2?style=flat-square) |
+
+<br/>
+
+---
+
+## Open To
+
+<div align="center">
+
+| 💼 Full-time roles | 🚀 SaaS building | 🌐 Open source |
+|:---:|:---:|:---:|
+| Software Engineer at a **product company** | Scalable platforms with **AI** at the core | Collaborations on projects that **matter** |
+
+<br/>
+
+**Got an idea or an opportunity? My inbox is open.**
+
+<br/>
+
+[![Email me](https://img.shields.io/badge/✉_Email_Me-db2777?style=for-the-badge)](mailto:anandjadhav42004@gmail.com)&nbsp;
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-jadhav-b599801b5/)
+
+</div>
 
 <br/>
 
